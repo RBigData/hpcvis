@@ -1,5 +1,5 @@
 Package: hpcvis
-Version: 0.2-0
+Version: 0.2-1
 Title: Plot Utilities for MPI Codes and Hardware Counters
 Description: A collection of tools to aid in 'benchmarking' and
     visualizing MPI codes as well as hardware performance counter
